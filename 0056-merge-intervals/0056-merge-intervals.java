@@ -16,7 +16,7 @@ class Solution {
             prev[1]=Math.max(prev[1],curr[1]);
 
         }else{
-            list.add(intervals[i]);
+            list.add(curr);
         }
      }
      int[][] res=new int[list.size()][2];
