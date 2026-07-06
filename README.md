@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0643-maximum-average-subarray-i) |
@@ -69,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
