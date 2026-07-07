@@ -14,6 +14,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prajwalguptaji/LeetHub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
 ## Prefix Sum
 |  |
 | ------- |
