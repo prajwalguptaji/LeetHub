@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
+| [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prajwalguptaji/LeetHub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
+| [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
