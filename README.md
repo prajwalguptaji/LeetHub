@@ -97,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
 ## Divide and Conquer
@@ -154,9 +155,15 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
