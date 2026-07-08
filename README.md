@@ -71,6 +71,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -114,16 +116,19 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
