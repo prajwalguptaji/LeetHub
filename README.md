@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
