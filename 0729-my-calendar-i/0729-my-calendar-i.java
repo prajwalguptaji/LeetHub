@@ -9,11 +9,11 @@ class MyCalendar {
 
     public boolean book(int startTime, int endTime) {
 
-        for (int i=0;i<bookings.size();i++) {
+        for (int[] k: bookings) {
             
 
-            int s1 = bookings.get(i)[0];
-            int e1 = bookings.get(i)[1];
+            int s1 = k[0];
+            int e1 = k[1];
 
             if (startTime < e1 && s1 < endTime) {
                 return false;
