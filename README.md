@@ -159,6 +159,7 @@
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/prajwalguptaji/LeetHub/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
