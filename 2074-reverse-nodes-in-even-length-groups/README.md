@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-nodes-in-even-length-groups">2196. Reverse Nodes in Even Length Groups</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a linked list.</p>
+<h2><a href="https://leetcode.com/problems/reverse-nodes-in-even-length-groups">2074. Reverse Nodes in Even Length Groups</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a linked list.</p>
 
 <p>The nodes in the linked list are <strong>sequentially</strong> assigned to <strong>non-empty</strong> groups whose lengths form the sequence of the natural numbers (<code>1, 2, 3, 4, ...</code>). The <strong>length</strong> of a group is the number of nodes assigned to it. In other words,</p>
 
