@@ -1,35 +1,37 @@
+import java.util.*;
+
 class Solution {
     public int largestInteger(int num) {
 
         char[] digits = String.valueOf(num).toCharArray();
 
-        List<Integer> even = new ArrayList<>();
-        List<Integer> odd = new ArrayList<>();
+        // Max Heaps
+        PriorityQueue<Integer> even =
+                new PriorityQueue<>(Collections.reverseOrder());
 
-        // Separate digits
+        PriorityQueue<Integer> odd =
+                new PriorityQueue<>(Collections.reverseOrder());
+
+        // Store digits in corresponding heaps
         for (char c : digits) {
             int d = c - '0';
+
             if (d % 2 == 0)
-                even.add(d);
+                even.offer(d);
             else
-                odd.add(d);
+                odd.offer(d);
         }
 
-        // Sort in descending order
-        even.sort(Collections.reverseOrder());
-        odd.sort(Collections.reverseOrder());
-
-        int e = 0, o = 0;
         StringBuilder ans = new StringBuilder();
 
-        // Rebuild number
+        // Reconstruct number
         for (char c : digits) {
             int d = c - '0';
 
             if (d % 2 == 0)
-                ans.append(even.get(e++));
+                ans.append(even.poll());
             else
-                ans.append(odd.get(o++));
+                ans.append(odd.poll());
         }
 
         return Integer.parseInt(ans.toString());
