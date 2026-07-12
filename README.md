@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0643-maximum-average-subarray-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
@@ -91,6 +93,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
+| [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
