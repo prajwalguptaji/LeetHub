@@ -42,6 +42,7 @@
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/prajwalguptaji/LeetHub/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
@@ -69,6 +70,7 @@
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalguptaji/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 ## Bit Manipulation
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [1792-maximum-average-pass-ratio](https://github.com/prajwalguptaji/LeetHub/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -107,6 +110,7 @@
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -170,6 +174,7 @@
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -220,4 +225,5 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
