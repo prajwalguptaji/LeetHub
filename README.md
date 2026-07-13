@@ -141,6 +141,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sweep Line
 |  |
@@ -217,6 +218,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/prajwalguptaji/LeetHub/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -226,4 +228,12 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
