@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
