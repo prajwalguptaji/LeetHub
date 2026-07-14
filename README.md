@@ -141,6 +141,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -177,6 +178,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prajwalguptaji/LeetHub/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
