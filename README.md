@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
@@ -109,6 +111,7 @@
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
@@ -175,6 +178,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
@@ -241,4 +245,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
