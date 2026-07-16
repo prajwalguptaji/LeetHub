@@ -22,6 +22,7 @@
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
@@ -123,6 +124,7 @@
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -257,6 +261,7 @@
 | ------- |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -270,4 +275,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
