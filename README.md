@@ -37,6 +37,7 @@
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/prajwalguptaji/LeetHub/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [1792-maximum-average-pass-ratio](https://github.com/prajwalguptaji/LeetHub/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prajwalguptaji/LeetHub/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Simulation
 |  |
 | ------- |
