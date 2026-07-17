@@ -37,6 +37,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/prajwalguptaji/LeetHub/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/prajwalguptaji/LeetHub/tree/master/2233-maximum-product-after-k-increments) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
@@ -120,6 +121,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/prajwalguptaji/LeetHub/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/prajwalguptaji/LeetHub/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2233-maximum-product-after-k-increments](https://github.com/prajwalguptaji/LeetHub/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -221,6 +223,7 @@
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/prajwalguptaji/LeetHub/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prajwalguptaji/LeetHub/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2233-maximum-product-after-k-increments](https://github.com/prajwalguptaji/LeetHub/tree/master/2233-maximum-product-after-k-increments) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
