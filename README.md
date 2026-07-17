@@ -43,6 +43,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Simulation
 |  |
@@ -242,6 +244,7 @@
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Union-Find
 |  |
 | ------- |
