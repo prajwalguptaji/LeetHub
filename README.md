@@ -43,6 +43,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/prajwalguptaji/LeetHub/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
 | [3169-count-days-without-meetings](https://github.com/prajwalguptaji/LeetHub/tree/master/3169-count-days-without-meetings) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Simulation
 |  |
 | ------- |
