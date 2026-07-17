@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii">3556. Final Array State After K Multiplication Operations II</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code>, an integer <code>k</code>, and an integer <code>multiplier</code>.</p>
+<h2><a href="https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii">3266. Final Array State After K Multiplication Operations II</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code>, an integer <code>k</code>, and an integer <code>multiplier</code>.</p>
 
 <p>You need to perform <code>k</code> operations on <code>nums</code>. In each operation:</p>
 
