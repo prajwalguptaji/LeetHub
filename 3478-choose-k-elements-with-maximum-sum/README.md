@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/choose-k-elements-with-maximum-sum">3759. Choose K Elements With Maximum Sum</a></h2><h3>Medium</h3><hr><p>You are given two integer arrays, <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>, along with a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/choose-k-elements-with-maximum-sum">3478. Choose K Elements With Maximum Sum</a></h2><h3>Medium</h3><hr><p>You are given two integer arrays, <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>, along with a positive integer <code>k</code>.</p>
 
 <p>For each index <code>i</code> from <code>0</code> to <code>n - 1</code>, perform the following:</p>
 
