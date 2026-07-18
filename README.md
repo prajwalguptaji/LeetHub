@@ -10,6 +10,7 @@
 | [0057-insert-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/prajwalguptaji/LeetHub/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/prajwalguptaji/LeetHub/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/prajwalguptaji/LeetHub/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
