@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0057-insert-interval) |
@@ -109,6 +110,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
