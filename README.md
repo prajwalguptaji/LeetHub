@@ -17,6 +17,7 @@
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
@@ -129,6 +130,7 @@
 | [0278-first-bad-version](https://github.com/prajwalguptaji/LeetHub/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -147,6 +149,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -190,6 +193,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
@@ -219,6 +223,7 @@
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sweep Line
