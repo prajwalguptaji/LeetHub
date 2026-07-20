@@ -139,6 +139,7 @@
 | [0875-koko-eating-bananas](https://github.com/prajwalguptaji/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/prajwalguptaji/LeetHub/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -151,6 +152,7 @@
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/prajwalguptaji/LeetHub/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/prajwalguptaji/LeetHub/tree/master/1792-maximum-average-pass-ratio) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2233-maximum-product-after-k-increments](https://github.com/prajwalguptaji/LeetHub/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/prajwalguptaji/LeetHub/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -329,6 +331,7 @@
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
