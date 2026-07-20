@@ -31,6 +31,7 @@
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0875-koko-eating-bananas](https://github.com/prajwalguptaji/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
@@ -135,6 +136,7 @@
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/0732-my-calendar-iii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0875-koko-eating-bananas](https://github.com/prajwalguptaji/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/prajwalguptaji/LeetHub/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
