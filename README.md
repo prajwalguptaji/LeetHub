@@ -22,6 +22,7 @@
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/0528-random-pick-with-weight) |
@@ -74,6 +75,7 @@
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalguptaji/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/prajwalguptaji/LeetHub/tree/master/0621-task-scheduler) |
