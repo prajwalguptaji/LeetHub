@@ -6,17 +6,13 @@ class Solution {
     
      while(i<nums.length){
          correctIndex=nums[i]-1;
-        if(correctIndex<0|| correctIndex>=nums.length){
-            i++;
-        }
-        else if(nums[i]!=nums[correctIndex]){
-            int temp=nums[i];
-            nums[i]=nums[correctIndex];
-            nums[correctIndex]=temp;
-        } else{
-            i++;
-        }
-
+       if (nums[i] > 0 && nums[i] <= nums.length && nums[i] != nums[correctIndex]) {
+          int temp = nums[i];
+          nums[i] = nums[correctIndex];
+          nums[correctIndex] = temp;
+        } else {
+              i++;
+           }
      }  
      //[-1,2,3,4]
      for(i=0;i<nums.length;i++){
