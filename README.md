@@ -339,6 +339,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/prajwalguptaji/LeetHub/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/prajwalguptaji/LeetHub/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2487-remove-nodes-from-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 | [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Counting
 |  |
@@ -413,4 +416,5 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
