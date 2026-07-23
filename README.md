@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/prajwalguptaji/LeetHub/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/prajwalguptaji/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
@@ -353,6 +354,7 @@
 | [0020-valid-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/prajwalguptaji/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/prajwalguptaji/LeetHub/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
