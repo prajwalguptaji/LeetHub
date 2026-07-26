@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/prajwalguptaji/LeetHub/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0057-insert-interval) |
@@ -428,4 +429,5 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
