@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/prajwalguptaji/LeetHub/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/prajwalguptaji/LeetHub/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
@@ -429,6 +430,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/prajwalguptaji/LeetHub/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prajwalguptaji/LeetHub/tree/master/0077-combinations) |
