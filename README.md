@@ -250,6 +250,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
@@ -443,6 +444,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -450,6 +452,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -458,6 +461,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
