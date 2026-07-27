@@ -364,6 +364,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/prajwalguptaji/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -441,14 +442,17 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
