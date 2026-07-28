@@ -16,6 +16,7 @@
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prajwalguptaji/LeetHub/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
@@ -326,6 +327,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Data Stream
 |  |
@@ -397,6 +399,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/prajwalguptaji/LeetHub/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -459,6 +462,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,4 +481,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/prajwalguptaji/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prajwalguptaji/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
