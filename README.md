@@ -44,6 +44,7 @@
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/prajwalguptaji/LeetHub/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/prajwalguptaji/LeetHub/tree/master/1094-car-pooling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -401,6 +402,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/prajwalguptaji/LeetHub/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Merge Sort
@@ -482,4 +484,5 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/prajwalguptaji/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
