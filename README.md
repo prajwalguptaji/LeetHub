@@ -39,6 +39,7 @@
 | [0729-my-calendar-i](https://github.com/prajwalguptaji/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/prajwalguptaji/LeetHub/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/prajwalguptaji/LeetHub/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/prajwalguptaji/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
@@ -257,6 +258,7 @@
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sweep Line
 |  |
