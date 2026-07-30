@@ -28,17 +28,13 @@
 // DP
 class Solution {
     static int[]  dp;
-    public int fibo(int n) {
-        //1D array
-        for (int i = 0; i <= n; i++) {
-          dp[i] = -1;
-        } 
+    public int fibo(int n) { 
         if(n<2){
            dp[n]=n;
            return n;
             
         }
-        if(dp[n]!=-1)
+        if(dp[n]!=0)
             return dp[n];
         else{
             dp[n]=fibo(n-1)+fibo(n-2);
