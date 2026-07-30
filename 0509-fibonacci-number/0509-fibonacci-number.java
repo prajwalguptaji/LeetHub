@@ -28,7 +28,7 @@
 // DP
 class Solution {
     static int[]  dp;
-    public int fibo(int n) { 
+    public int fibo(int n,int[] dp) { 
         if(n<2){
            dp[n]=n;
            return n;
@@ -37,13 +37,13 @@ class Solution {
         if(dp[n]!=0)
             return dp[n];
         else{
-            dp[n]=fibo(n-1)+fibo(n-2);
+            dp[n]=fibo(n-1,dp)+fibo(n-2,dp);
             return dp[n];
         }
     }
     public int fib(int n){
         dp=new int[n+1];
-        return fibo(n);
+        return fibo(n,dp);
     }
 }
 
