@@ -15,13 +15,40 @@
 //     }
 // }
 
+// RECURSION
+// class Solution {
+//     public static int fib(int n) {
+//         if(n<2){
+//             return n;
+//         }
+//         return fib(n-1)+fib(n-2);
+//      }
+// }
+
+// DP
 class Solution {
-    public static int fib(int n) {
+    static int[]  dp;
+    public int fibo(int n) {
+        //1D array
+        for (int i = 0; i <= n; i++) {
+          dp[i] = -1;
+        } 
         if(n<2){
-            return n;
+           dp[n]=n;
+           return n;
+            
         }
-        return fib(n-1)+fib(n-2);
-     }
+        if(dp[n]!=-1)
+            return dp[n];
+        else{
+            dp[n]=fibo(n-1)+fibo(n-2);
+            return dp[n];
+        }
+    }
+    public int fib(int n){
+        dp=new int[n+1];
+        return fibo(n);
+    }
 }
 
 // Synced seamlessly with LeetHub Pro
