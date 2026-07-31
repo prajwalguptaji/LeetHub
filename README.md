@@ -254,6 +254,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prajwalguptaji/LeetHub/tree/master/0198-house-robber) |
@@ -388,6 +389,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/prajwalguptaji/LeetHub/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
@@ -489,4 +491,8 @@
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
