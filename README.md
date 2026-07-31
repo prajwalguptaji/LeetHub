@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
@@ -255,6 +256,7 @@
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prajwalguptaji/LeetHub/tree/master/0198-house-robber) |
@@ -406,6 +408,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
