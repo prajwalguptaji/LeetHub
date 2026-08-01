@@ -26,6 +26,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
@@ -263,6 +264,7 @@
 | [0279-perfect-squares](https://github.com/prajwalguptaji/LeetHub/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
