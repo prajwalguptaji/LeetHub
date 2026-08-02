@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/prajwalguptaji/LeetHub/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
@@ -263,6 +264,7 @@
 | [0198-house-robber](https://github.com/prajwalguptaji/LeetHub/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/prajwalguptaji/LeetHub/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/prajwalguptaji/LeetHub/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
@@ -498,6 +500,7 @@
 | [0112-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/prajwalguptaji/LeetHub/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/prajwalguptaji/LeetHub/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
