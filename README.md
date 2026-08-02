@@ -31,6 +31,7 @@
 | [0436-find-right-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/prajwalguptaji/LeetHub/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/prajwalguptaji/LeetHub/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -267,6 +268,7 @@
 | [0322-coin-change](https://github.com/prajwalguptaji/LeetHub/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -458,6 +460,7 @@
 | [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prajwalguptaji/LeetHub/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
