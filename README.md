@@ -132,6 +132,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prajwalguptaji/LeetHub/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/prajwalguptaji/LeetHub/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalguptaji/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
@@ -269,6 +270,7 @@
 | [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prajwalguptaji/LeetHub/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/prajwalguptaji/LeetHub/tree/master/0279-perfect-squares) |
@@ -468,6 +470,7 @@
 | [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/prajwalguptaji/LeetHub/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0494-target-sum) |
 ## Tree
 |  |
