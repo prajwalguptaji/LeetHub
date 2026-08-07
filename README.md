@@ -529,4 +529,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
