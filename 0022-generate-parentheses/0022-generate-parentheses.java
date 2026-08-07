@@ -40,7 +40,6 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans=new ArrayList<>();
         generator(n,0,0,"",ans);
-        System.out.println(ans);
         return ans;
     }
 }
