@@ -64,6 +64,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/prajwalguptaji/LeetHub/tree/master/1383-maximum-performance-of-a-team) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/prajwalguptaji/LeetHub/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/prajwalguptaji/LeetHub/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/prajwalguptaji/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1792-maximum-average-pass-ratio](https://github.com/prajwalguptaji/LeetHub/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/prajwalguptaji/LeetHub/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -226,6 +227,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1383-maximum-performance-of-a-team](https://github.com/prajwalguptaji/LeetHub/tree/master/1383-maximum-performance-of-a-team) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/prajwalguptaji/LeetHub/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/prajwalguptaji/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prajwalguptaji/LeetHub/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -285,6 +287,7 @@
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/prajwalguptaji/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Sweep Line
 |  |
 | ------- |
