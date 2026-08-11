@@ -12,8 +12,7 @@ class Solution {
         int n = nums.length;
         if (n == 1)
             return nums[0];
-        int[] dp1 = new int[n];
-        int[] dp2 = new int[n];
+        int[] dp1 = new int[n], dp2 = new int[n];
         Arrays.fill(dp1, -1);
         Arrays.fill(dp2, -1);
         int case1 = amount(nums, 0, n - 2, dp1);
