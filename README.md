@@ -151,6 +151,7 @@
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/prajwalguptaji/LeetHub/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalguptaji/LeetHub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1486-xor-operation-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalguptaji/LeetHub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1486-xor-operation-in-an-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
