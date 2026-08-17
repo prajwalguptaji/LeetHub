@@ -556,4 +556,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prajwalguptaji/LeetHub/tree/master/0322-coin-change) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
