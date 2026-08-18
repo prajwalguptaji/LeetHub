@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prajwalguptaji/LeetHub/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
@@ -273,6 +274,7 @@
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prajwalguptaji/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -441,6 +443,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prajwalguptaji/LeetHub/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
