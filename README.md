@@ -138,6 +138,7 @@
 | [0022-generate-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prajwalguptaji/LeetHub/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/prajwalguptaji/LeetHub/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/prajwalguptaji/LeetHub/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/prajwalguptaji/LeetHub/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
