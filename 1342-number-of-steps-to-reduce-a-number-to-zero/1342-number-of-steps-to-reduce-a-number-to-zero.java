@@ -9,7 +9,7 @@ class Solution {
         if(num%2==0)
            return fun(num/2,steps+1);
         else
-           return fun(num-1,steps+1);   
+           return fun(num-1,steps+1);
     }
 }
 
