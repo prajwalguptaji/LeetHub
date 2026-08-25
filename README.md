@@ -142,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/prajwalguptaji/LeetHub/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prajwalguptaji/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
@@ -262,6 +263,7 @@
 | [0088-merge-sorted-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prajwalguptaji/LeetHub/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0344-reverse-string) |
