@@ -433,6 +433,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/prajwalguptaji/LeetHub/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/prajwalguptaji/LeetHub/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/prajwalguptaji/LeetHub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0070-climbing-stairs) |
