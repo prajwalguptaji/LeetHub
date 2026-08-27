@@ -113,6 +113,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/prajwalguptaji/LeetHub/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/prajwalguptaji/LeetHub/tree/master/2402-meeting-rooms-iii) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0904-fruit-into-baskets](https://github.com/prajwalguptaji/LeetHub/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prajwalguptaji/LeetHub/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Bit Manipulation
 |  |
 | ------- |
