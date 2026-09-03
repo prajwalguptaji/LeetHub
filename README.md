@@ -157,6 +157,7 @@
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3813-vowel-consonant-score](https://github.com/prajwalguptaji/LeetHub/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3813-vowel-consonant-score](https://github.com/prajwalguptaji/LeetHub/tree/master/3813-vowel-consonant-score) |
 ## Union-Find
 |  |
 | ------- |
