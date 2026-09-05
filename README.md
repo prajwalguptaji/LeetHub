@@ -158,6 +158,7 @@
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3340-check-balanced-string](https://github.com/prajwalguptaji/LeetHub/tree/master/3340-check-balanced-string) |
 | [3813-vowel-consonant-score](https://github.com/prajwalguptaji/LeetHub/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
