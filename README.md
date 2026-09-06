@@ -70,6 +70,7 @@
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/prajwalguptaji/LeetHub/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/prajwalguptaji/LeetHub/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/prajwalguptaji/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1792-maximum-average-pass-ratio](https://github.com/prajwalguptaji/LeetHub/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajwalguptaji/LeetHub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/prajwalguptaji/LeetHub/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -321,6 +322,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prajwalguptaji/LeetHub/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/prajwalguptaji/LeetHub/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sweep Line
 |  |
 | ------- |
