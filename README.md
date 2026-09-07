@@ -157,6 +157,7 @@
 | [0567-permutation-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
@@ -609,4 +610,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0202-happy-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
