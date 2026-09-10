@@ -406,6 +406,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/prajwalguptaji/LeetHub/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0547-number-of-provinces](https://github.com/prajwalguptaji/LeetHub/tree/master/0547-number-of-provinces) |
 ## Data Stream
 |  |
 | ------- |
@@ -561,6 +562,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/prajwalguptaji/LeetHub/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -585,6 +587,7 @@
 | [0200-number-of-islands](https://github.com/prajwalguptaji/LeetHub/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/prajwalguptaji/LeetHub/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prajwalguptaji/LeetHub/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/prajwalguptaji/LeetHub/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/prajwalguptaji/LeetHub/tree/master/0994-rotting-oranges) |
 ## Combinatorics
 |  |
@@ -623,4 +626,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/prajwalguptaji/LeetHub/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
