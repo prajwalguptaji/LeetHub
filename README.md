@@ -470,6 +470,7 @@
 | [0069-sqrtx](https://github.com/prajwalguptaji/LeetHub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/prajwalguptaji/LeetHub/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0313-super-ugly-number) |
