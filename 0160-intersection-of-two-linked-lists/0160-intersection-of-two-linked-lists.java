@@ -24,20 +24,32 @@ public class Solution {
             
         // }
         // return null;
-        Set<ListNode> set = new HashSet<>();
-        ListNode currA =headA,
-        currB=headB;
-        while(currA!=null){
-            set.add(currA);
-            currA=currA.next;
+
+
+        // APPROACH 2
+        // Set<ListNode> set = new HashSet<>();
+        // ListNode currA =headA,
+        // currB=headB;
+        // while(currA!=null){
+        //     set.add(currA);
+        //     currA=currA.next;
+        // }
+        // while(currB!=null){
+        //     if(set.contains(currB)){
+        //         return currB;
+        //     }
+        //     currB = currB.next;
+        // }
+        // return null;
+
+        //APPROACH 3
+        ListNode curr1=headA,curr2=headB;
+        while(curr1!=curr2){
+           curr1=curr1==null?headB:curr1.next;
+           curr2=curr2==null?headA:curr2.next;
         }
-        while(currB!=null){
-            if(set.contains(currB)){
-                return currB;
-            }
-            currB = currB.next;
-        }
-        return null;
+        return curr1;
+        
     }
 }
 
