@@ -96,6 +96,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0219-contains-duplicate-ii) |
@@ -285,6 +286,7 @@
 | [0125-valid-palindrome](https://github.com/prajwalguptaji/LeetHub/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/prajwalguptaji/LeetHub/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0344-reverse-string) |
@@ -422,6 +424,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/prajwalguptaji/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prajwalguptaji/LeetHub/tree/master/0328-odd-even-linked-list) |
