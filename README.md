@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/prajwalguptaji/LeetHub/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/prajwalguptaji/LeetHub/tree/master/0645-set-mismatch) |
