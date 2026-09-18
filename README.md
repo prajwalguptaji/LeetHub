@@ -651,4 +651,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prajwalguptaji/LeetHub/tree/master/0547-number-of-provinces) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
