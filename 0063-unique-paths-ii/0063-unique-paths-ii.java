@@ -3,7 +3,6 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         int[][] dp = new int[m][n];
-
         if (grid[0][0] == 1) {
             return 0;
         }
