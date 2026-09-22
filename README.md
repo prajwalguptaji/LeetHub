@@ -501,6 +501,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1486-xor-operation-in-an-array) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prajwalguptaji/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
@@ -655,4 +656,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/prajwalguptaji/LeetHub/tree/master/0051-n-queens) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
