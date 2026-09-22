@@ -168,6 +168,7 @@
 | [0767-reorganize-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prajwalguptaji/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prajwalguptaji/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1405-longest-happy-string](https://github.com/prajwalguptaji/LeetHub/tree/master/1405-longest-happy-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prajwalguptaji/LeetHub/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -496,6 +497,7 @@
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/prajwalguptaji/LeetHub/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/prajwalguptaji/LeetHub/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prajwalguptaji/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prajwalguptaji/LeetHub/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/1486-xor-operation-in-an-array) |
@@ -660,4 +662,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prajwalguptaji/LeetHub/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prajwalguptaji/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/prajwalguptaji/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
