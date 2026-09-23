@@ -13,16 +13,13 @@ class Solution {
                 nums[correctIndex]=temp;
             }else{
                 i++;
-            }
-            
+            }    
         }
         //[1,2,2,3,3,4,7,8]
         for(i=0;i<nums.length;i++){
             if(nums[i]!=i+1){
                 res.add(i+1);
-
-            }
-            
+            }    
         }
         return res;
     }
