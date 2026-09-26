@@ -20,6 +20,7 @@
 | [0118-pascals-triangle](https://github.com/prajwalguptaji/LeetHub/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prajwalguptaji/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prajwalguptaji/LeetHub/tree/master/0162-find-peak-element) |
@@ -99,6 +100,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prajwalguptaji/LeetHub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prajwalguptaji/LeetHub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0202-happy-number) |
@@ -155,6 +157,7 @@
 | [0125-valid-palindrome](https://github.com/prajwalguptaji/LeetHub/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/prajwalguptaji/LeetHub/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/prajwalguptaji/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/prajwalguptaji/LeetHub/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/prajwalguptaji/LeetHub/tree/master/0242-valid-anagram) |
@@ -333,6 +336,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prajwalguptaji/LeetHub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prajwalguptaji/LeetHub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prajwalguptaji/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prajwalguptaji/LeetHub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prajwalguptaji/LeetHub/tree/master/0213-house-robber-ii) |
@@ -513,6 +517,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prajwalguptaji/LeetHub/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prajwalguptaji/LeetHub/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
@@ -646,6 +651,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prajwalguptaji/LeetHub/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -675,4 +681,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prajwalguptaji/LeetHub/tree/master/1071-greatest-common-divisor-of-strings) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/prajwalguptaji/LeetHub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
